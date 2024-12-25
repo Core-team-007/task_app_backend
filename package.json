@@ -1,0 +1,17 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "## Overview The Task Management System is designed to help teams and individuals manage their tasks efficiently. It provides features for creating, updating, and tracking tasks, as well as assigning tasks to team members and setting deadlines.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.12.0"
+  }
+}
